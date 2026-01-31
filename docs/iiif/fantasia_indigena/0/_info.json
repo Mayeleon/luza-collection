@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/image/3/context.json",
-  "id": "http://localhost:5173/luza-collection/iiif/fantasia_indigena/0",
+  "id": "https://mayeleon.github.io/luza-collection/iiif/fantasia_indigena/0",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "https://iiif.io/api/image",
