@@ -1,7 +1,7 @@
 {
   "id": "https://mayeleon.github.io/luza-collection/iiif/fantasia_indigena/manifest/manifest.json",
   "type": "Manifest",
-  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
   "label": {
     "en": [
       "Serie fotográfica Fantasía indígena"
@@ -18,7 +18,7 @@
               "id": "https://mayeleon.github.io/luza-collection/iiif/fantasia_indigena/manifest/image-0.json",
               "items": [],
               "type": "Annotation",
-              "@context": "https://www.w3.org/ns/anno.jsonld",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
               "motivation": "painting",
               "target": "https://mayeleon.github.io/luza-collection/iiif/fantasia_indigena/manifest/canvas-0.json",
               "body": {
