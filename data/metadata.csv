@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,autor,descripcion,fecha,ciudad,tipo_principal,derechos
+portada_vogue_1921,Portada de Vogue ,Reynaldo Luza,Primera ilustración publicada en la portada de la revista Vogue,1921,Nueva York,Gouache y lápiz sobre papel,Archivo Reynaldo Luza
+frutera_andina,Frutera Indigena,Reynaldo Luza,Pintura presentada en la Exposición Internacional de París de 1937,1937,Cusco,Témpera sobre cartulina,Archivo Reynaldo Luza
+diseno_peruano_3,Patrones decorativos para textil,Reynaldo Luza,Luza modernizó figuras propias del imaginario andino,1937,Cusco,Témpera sobre papel,Colección Juan Carlos Verme
+mapa_de_los_colores_del_peru,Mapa del Perú en los colores de los Andes,Reynaldo Luza,La pieza fue presentada en la muestra Colores de los Andes realizada en la galería W. y J. Sloane,1942,Nueva York,Témpera sobre cartulina,Archivo Reynaldo Luza
+fantasia_indigena,Serie fotográfica Fantasía indígena,Reynaldo Luza,Retrato de mujeres jóvenes de rasgos europeos ataviadas con indumentaria indígena tradicional,1937,Nueva York,Fotografía digitalizada en blanco y negro,Archivo Reynaldo Luza

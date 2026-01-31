@@ -1,0 +1,42 @@
+{
+  "id": "https://mayeleon.github.io/luza-collection/iiif/frutera_andina/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Frutera Indigena"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://mayeleon.github.io/luza-collection/iiif/frutera_andina/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://mayeleon.github.io/luza-collection/iiif/frutera_andina/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://mayeleon.github.io/luza-collection/iiif/frutera_andina/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://mayeleon.github.io/luza-collection/iiif/frutera_andina/manifest/canvas-0.json",
+              "body": {
+                "id": "https://mayeleon.github.io/luza-collection/iiif/frutera_andina/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2770,
+                "width": 2009
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2009,
+      "height": 2770,
+      "annotations": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "https://mayeleon.github.io/luza-collection/iiif/portada_vogue_1921/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://mayeleon.github.io/luza-collection/iiif/portada_vogue_1921/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://mayeleon.github.io/luza-collection/iiif/portada_vogue_1921/manifest/canvas-0.json",
+      "body": {
+        "id": "https://mayeleon.github.io/luza-collection/iiif/portada_vogue_1921/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 4284,
+        "width": 3150
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "https://mayeleon.github.io/luza-collection/iiif/diseno_peruano_3/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Patrones decorativos para textil"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://mayeleon.github.io/luza-collection/iiif/diseno_peruano_3/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://mayeleon.github.io/luza-collection/iiif/diseno_peruano_3/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://mayeleon.github.io/luza-collection/iiif/diseno_peruano_3/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://mayeleon.github.io/luza-collection/iiif/diseno_peruano_3/manifest/canvas-0.json",
+              "body": {
+                "id": "https://mayeleon.github.io/luza-collection/iiif/diseno_peruano_3/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1508,
+                "width": 1508
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1508,
+      "height": 1508,
+      "annotations": []
+    }
+  ]
+}

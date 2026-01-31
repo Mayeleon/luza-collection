@@ -1,0 +1,15 @@
+{
+  "id": "https://mayeleon.github.io/luza-collection/iiif/mapa_de_los_colores_del_peru/manifest/image-0.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://mayeleon.github.io/luza-collection/iiif/mapa_de_los_colores_del_peru/manifest/canvas-0.json",
+  "body": {
+    "id": "https://mayeleon.github.io/luza-collection/iiif/mapa_de_los_colores_del_peru/0/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 2820,
+    "width": 1923
+  }
+}
