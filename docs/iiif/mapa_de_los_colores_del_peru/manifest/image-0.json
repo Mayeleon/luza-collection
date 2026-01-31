@@ -2,7 +2,7 @@
   "id": "https://mayeleon.github.io/luza-collection/iiif/mapa_de_los_colores_del_peru/manifest/image-0.json",
   "items": [],
   "type": "Annotation",
-  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "@context": "https://www.w3.org/ns/anno.jsonld",
   "motivation": "painting",
   "target": "https://mayeleon.github.io/luza-collection/iiif/mapa_de_los_colores_del_peru/manifest/canvas-0.json",
   "body": {

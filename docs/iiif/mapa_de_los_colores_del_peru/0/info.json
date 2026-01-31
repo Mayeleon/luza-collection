@@ -1,9 +1,9 @@
 {
-  "@context": "http://iiif.io/api/image/3/context.json",
+  "@context": "https://iiif.io/api/image/3/context.json",
   "id": "https://mayeleon.github.io/luza-collection/iiif/mapa_de_los_colores_del_peru/0",
   "type": "ImageService3",
   "profile": "level0",
-  "protocol": "http://iiif.io/api/image",
+  "protocol": "https://iiif.io/api/image",
   "tiles": [
     {
       "scaleFactors": [
